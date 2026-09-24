@@ -8389,6 +8389,12 @@
 		(uuid "0ac19e8c-6fb9-4937-aac9-76e5ead73e66")
 	)
 	(junction
+		(at 150.7738 215.975)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b56e6ed-7189-4af9-bdd0-fd8365baea9b")
+	)
+	(junction
 		(at 490.3057 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8413,6 +8419,18 @@
 		(uuid "0d3ca35e-78ae-4ea4-b7e6-47baa18ff93e")
 	)
 	(junction
+		(at 294.5722 308.5263)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d3d6d74-c604-4e4a-bfc9-11922189b0b7")
+	)
+	(junction
+		(at 149.539 340.1673)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "153ecdfa-02cd-4bb0-90f4-dc3b965d374f")
+	)
+	(junction
 		(at 148.5868 131.0466)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8423,6 +8441,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "16f72e77-2ed2-4e1c-9857-30398198ac61")
+	)
+	(junction
+		(at 547.4043 139.4959)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17fb20f3-04da-49af-8753-0a7429d5336c")
 	)
 	(junction
 		(at 94.9217 200.4882)
@@ -8467,10 +8491,28 @@
 		(uuid "2754f11f-b93b-41f1-aa64-f52e97799d55")
 	)
 	(junction
+		(at 208.0166 120.8866)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b4962be-2580-4da1-8a89-5f5dbf7973e5")
+	)
+	(junction
+		(at 257.1127 249.8243)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2cedf9a5-9f97-4b7c-9a66-d44c14c7c1db")
+	)
+	(junction
 		(at 150.7738 200.4882)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2f89f27b-e5fb-431f-9957-d91aa9d17fa0")
+	)
+	(junction
+		(at 525.1051 284.3571)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31c64d3d-8040-4875-859a-068cd28b0c7f")
 	)
 	(junction
 		(at 294.5722 327.5763)
@@ -8533,6 +8575,12 @@
 		(uuid "46023065-f8a8-4f7f-bd1d-0e57af8f9daf")
 	)
 	(junction
+		(at 44.414 126.0434)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "476d9166-e118-452f-9292-23a9edd4b74b")
+	)
+	(junction
 		(at 58.1974 125.9666)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8545,6 +8593,12 @@
 		(uuid "4d934bc3-e0c1-4cbc-a0b9-4cc95b498bb8")
 	)
 	(junction
+		(at 220.9425 165.0068)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4de6df42-12fd-42fc-b0f1-91432092663e")
+	)
+	(junction
 		(at 508.0343 117.4685)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8555,6 +8609,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "58944546-42d9-4d49-ba97-e066ac8ff11a")
+	)
+	(junction
+		(at 259.1119 300.9063)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "614476dc-950b-4349-9125-f31044820273")
 	)
 	(junction
 		(at 547.4043 117.4685)
@@ -8597,6 +8657,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f5ec8b8-076c-43d0-930a-fb27609de2ed")
+	)
+	(junction
+		(at 257.1625 249.8343)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "832538dd-b52a-4e3e-a799-4b6be0b4df1b")
+	)
+	(junction
+		(at 437.2454 248.6455)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87d82a31-67ff-4c8b-8cfa-e1744e47ba9f")
 	)
 	(junction
 		(at 87.6268 138.6666)
@@ -8647,10 +8719,28 @@
 		(uuid "b6ebe287-cbc2-4c06-b566-c6f1fb09e74f")
 	)
 	(junction
+		(at 149.539 366.947)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "be367125-75e3-49f1-8a67-82a466a3f979")
+	)
+	(junction
 		(at 387.2652 145.3647)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf0112df-046f-4b6c-98e9-d30c4e2aba89")
+	)
+	(junction
+		(at 150.7738 200.4161)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf1edc94-3193-4a4c-8451-1e19fb66ae22")
+	)
+	(junction
+		(at 496.4646 97.6116)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c1027cbe-9e7f-4b97-8fcb-1e3b07c10f48")
 	)
 	(junction
 		(at 347.8952 112.9797)
@@ -8713,10 +8803,22 @@
 		(uuid "de9f0720-fd4f-4e2e-ac1e-db08e74624e9")
 	)
 	(junction
+		(at 494.0643 120.0085)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9002992-8253-4f84-bb23-9fde57892561")
+	)
+	(junction
 		(at 44.414 125.9666)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e944d2c9-dc0e-4f90-88d8-1bb18b4dd2df")
+	)
+	(junction
+		(at 38.4826 146.0947)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec136ba2-8f8a-406e-bdc8-abdcbea1fcbd")
 	)
 	(junction
 		(at 143.1538 200.4882)
@@ -8796,7 +8898,7 @@
 	)
 	(wire
 		(pts
-			(xy 496.4646 88.2585) (xy 496.4646 117.4685)
+			(xy 496.4646 88.2585) (xy 496.4646 97.6116)
 		)
 		(stroke
 			(width 0)
@@ -8823,16 +8925,6 @@
 			(type default)
 		)
 		(uuid "02b8ad36-7b7b-4cdc-a0d7-e2023aee58aa")
-	)
-	(wire
-		(pts
-			(xy 220.9425 161.5266) (xy 220.9425 166.6066)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0364a04f-a46a-4921-ba1c-3f0e42173d6c")
 	)
 	(wire
 		(pts
@@ -8956,6 +9048,16 @@
 	)
 	(wire
 		(pts
+			(xy 496.4646 97.6116) (xy 496.4646 117.4685)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c02f7b0-6b02-4f4b-a354-8f12a6daa13a")
+	)
+	(wire
+		(pts
 			(xy 490.3057 222.758) (xy 490.3057 220.218)
 		)
 		(stroke
@@ -8996,7 +9098,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.4826 150.1734) (xy 38.4826 131.1234)
+			(xy 38.4826 150.1734) (xy 38.4826 146.0947)
 		)
 		(stroke
 			(width 0)
@@ -9023,6 +9125,16 @@
 			(type default)
 		)
 		(uuid "14ad6813-c36e-4efe-bf84-5005921b4bf4")
+	)
+	(wire
+		(pts
+			(xy 150.7738 200.4161) (xy 150.7738 200.4882)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14dd08e4-cdd7-40a6-b258-caaf51f12a24")
 	)
 	(wire
 		(pts
@@ -9056,16 +9168,6 @@
 	)
 	(wire
 		(pts
-			(xy 525.1051 283.8639) (xy 525.1051 285.1339)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1735c30e-3121-47e9-a51a-49387217fb0e")
-	)
-	(wire
-		(pts
 			(xy 363.1352 150.4447) (xy 366.9452 150.4447)
 		)
 		(stroke
@@ -9073,16 +9175,6 @@
 			(type default)
 		)
 		(uuid "1751921c-6a6d-438c-a60f-1b9b483db82d")
-	)
-	(wire
-		(pts
-			(xy 378.46 125.73) (xy 378.46 125.0447)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17b46301-8049-4153-8b02-7c1ca060799f")
 	)
 	(wire
 		(pts
@@ -9156,7 +9248,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.9527 249.8343) (xy 248.2227 249.8343)
+			(xy 246.9527 249.8243) (xy 246.9899 249.8243)
 		)
 		(stroke
 			(width 0)
@@ -9183,6 +9275,16 @@
 			(type default)
 		)
 		(uuid "1d330837-d85e-4be4-8fca-5ed97568d184")
+	)
+	(wire
+		(pts
+			(xy 259.3723 249.8243) (xy 257.1127 249.8243)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d37896d-a3d9-42f0-84fa-530dfa2f1085")
 	)
 	(wire
 		(pts
@@ -9213,16 +9315,6 @@
 			(type default)
 		)
 		(uuid "1f5ae16a-3e97-480d-909d-fea8768544fe")
-	)
-	(wire
-		(pts
-			(xy 365.76 135.2047) (xy 363.1352 135.2047)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20b43658-0d11-4309-a47f-cae31cc4a34f")
 	)
 	(wire
 		(pts
@@ -9356,6 +9448,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.9425 161.5266) (xy 220.9425 165.0068)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29cfd396-ee37-4ba3-82a7-0c3d18306223")
+	)
+	(wire
+		(pts
 			(xy 388.0317 246.6597) (xy 389.3017 246.6597)
 		)
 		(stroke
@@ -9386,6 +9488,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.9425 165.0068) (xy 220.9425 166.6066)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c25a6a2-0a77-4c3b-8fc7-c81559a384a5")
+	)
+	(wire
+		(pts
 			(xy 187.8502 120.8866) (xy 203.0902 120.8866)
 		)
 		(stroke
@@ -9396,13 +9508,13 @@
 	)
 	(wire
 		(pts
-			(xy 365.76 135.89) (xy 365.76 135.2047)
+			(xy 257.7422 300.9063) (xy 259.1119 300.9063)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2de4e83f-51c7-4d51-8b91-1e4f338d4e45")
+		(uuid "2e349e82-c461-4d3d-8a24-7b2b1eac42cf")
 	)
 	(wire
 		(pts
@@ -9446,7 +9558,7 @@
 	)
 	(wire
 		(pts
-			(xy 260.2877 249.8343) (xy 257.1127 249.8343)
+			(xy 257.1127 249.8343) (xy 257.1625 249.8343)
 		)
 		(stroke
 			(width 0)
@@ -9496,7 +9608,7 @@
 	)
 	(wire
 		(pts
-			(xy 150.7738 210.3209) (xy 150.7738 219.2109)
+			(xy 150.7738 210.3209) (xy 150.7738 215.975)
 		)
 		(stroke
 			(width 0)
@@ -9596,16 +9708,6 @@
 	)
 	(wire
 		(pts
-			(xy 150.7738 193.8109) (xy 150.7738 200.4882)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38ea6f80-05cf-4c42-980d-6143aa12f570")
-	)
-	(wire
-		(pts
 			(xy 257.7422 303.4463) (xy 276.7922 303.4463)
 		)
 		(stroke
@@ -9646,17 +9748,7 @@
 	)
 	(wire
 		(pts
-			(xy 367.03 135.89) (xy 365.76 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fdf1ad8-d373-411f-8941-161343a36e62")
-	)
-	(wire
-		(pts
-			(xy 547.4043 146.6785) (xy 547.4043 132.7085)
+			(xy 547.4043 146.6785) (xy 547.4043 139.4959)
 		)
 		(stroke
 			(width 0)
@@ -9726,6 +9818,16 @@
 	)
 	(wire
 		(pts
+			(xy 150.7738 200.4882) (xy 150.7738 202.7009)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44fb5265-6f47-4715-80c9-230721ae11aa")
+	)
+	(wire
+		(pts
 			(xy 508.0343 97.1485) (xy 508.0343 102.2285)
 		)
 		(stroke
@@ -9776,6 +9878,16 @@
 	)
 	(wire
 		(pts
+			(xy 519.6086 284.3571) (xy 525.1051 284.3571)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47d08548-6e83-485a-9111-88761c33184f")
+	)
+	(wire
+		(pts
 			(xy 138.4268 109.4566) (xy 138.4268 120.8866)
 		)
 		(stroke
@@ -9803,6 +9915,26 @@
 			(type default)
 		)
 		(uuid "4b3a9701-f2ef-4297-ab8f-c8a6be5939c4")
+	)
+	(wire
+		(pts
+			(xy 257.1625 247.1954) (xy 257.1625 249.8343)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b66855d-be2a-4d5a-9be1-a0057ac50aec")
+	)
+	(wire
+		(pts
+			(xy 38.4826 146.0947) (xy 38.4826 131.1234)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bb15774-2a2a-4a5f-a5c8-9bfc93b868c5")
 	)
 	(wire
 		(pts
@@ -9836,6 +9968,16 @@
 	)
 	(wire
 		(pts
+			(xy 214.9982 165.0068) (xy 220.9425 165.0068)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e512826-0df8-40a8-9d30-c9c9af0333de")
+	)
+	(wire
+		(pts
 			(xy 554.5644 227.0922) (xy 555.8344 227.0922)
 		)
 		(stroke
@@ -9853,6 +9995,16 @@
 			(type default)
 		)
 		(uuid "4fb0d92c-21bd-4728-8cef-62cdf6c1a0d3")
+	)
+	(wire
+		(pts
+			(xy 44.414 126.0434) (xy 52.2919 126.0434)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5069cc76-3827-4cb5-89ce-5b7bdc3b1947")
 	)
 	(wire
 		(pts
@@ -9926,6 +10078,16 @@
 	)
 	(wire
 		(pts
+			(xy 525.1051 284.3571) (xy 525.1051 285.1339)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58b5a8ef-77bc-4c09-87e0-58d3b5d13c69")
+	)
+	(wire
+		(pts
 			(xy 74.93 284.48) (xy 86.36 284.48)
 		)
 		(stroke
@@ -9953,6 +10115,16 @@
 			(type default)
 		)
 		(uuid "58ccea27-e7e1-4f29-9035-b809178ca8d4")
+	)
+	(wire
+		(pts
+			(xy 257.1127 249.8243) (xy 257.1127 249.8343)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a0342fb-6f00-4242-b8bd-153c126ffe1d")
 	)
 	(wire
 		(pts
@@ -10026,6 +10198,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.1119 300.9063) (xy 271.7122 300.9063)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e43e7eb-1c5d-4f3c-8d84-6fb77c6d0654")
+	)
+	(wire
+		(pts
 			(xy 366.9452 137.7447) (xy 363.1352 137.7447)
 		)
 		(stroke
@@ -10043,6 +10225,16 @@
 			(type default)
 		)
 		(uuid "5fe6183f-fb98-45a9-abb3-f4fd59b42363")
+	)
+	(wire
+		(pts
+			(xy 547.4043 139.4959) (xy 547.4043 132.7085)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6123a236-498a-49d5-af40-14403330751c")
 	)
 	(wire
 		(pts
@@ -10126,6 +10318,16 @@
 	)
 	(wire
 		(pts
+			(xy 259.1119 293.4576) (xy 259.1119 300.9063)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6761f0d7-a963-45a7-a9db-5fe0d867979b")
+	)
+	(wire
+		(pts
 			(xy 390.5717 241.5797) (xy 388.0317 241.5797)
 		)
 		(stroke
@@ -10146,7 +10348,7 @@
 	)
 	(wire
 		(pts
-			(xy 427.116 248.6455) (xy 437.276 248.6455)
+			(xy 427.116 248.6455) (xy 437.2454 248.6455)
 		)
 		(stroke
 			(width 0)
@@ -10396,6 +10598,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.0166 107.1722) (xy 208.0166 120.8866)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75930d70-67b5-43ed-935f-5ddb3af234cf")
+	)
+	(wire
+		(pts
 			(xy 110.169 343.9773) (xy 113.979 343.9773)
 		)
 		(stroke
@@ -10426,6 +10638,16 @@
 	)
 	(wire
 		(pts
+			(xy 155.2861 215.975) (xy 150.7738 215.975)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78ad5dd0-d7e1-407d-a75e-1771ee684181")
+	)
+	(wire
+		(pts
 			(xy 526.4052 258.8096) (xy 526.4052 256.2696)
 		)
 		(stroke
@@ -10446,6 +10668,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.1352 135.2047) (xy 366.9528 135.2047)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b05ba69-d358-4040-826c-8ccf09894482")
+	)
+	(wire
+		(pts
 			(xy 113.979 333.8173) (xy 113.979 343.9773)
 		)
 		(stroke
@@ -10453,6 +10685,16 @@
 			(type default)
 		)
 		(uuid "7b0a596e-e27f-490d-a8aa-41cd5498f100")
+	)
+	(wire
+		(pts
+			(xy 155.2004 200.4161) (xy 150.7738 200.4161)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b94438d-6d9d-4663-8d60-b6cc88e33a20")
 	)
 	(wire
 		(pts
@@ -10576,7 +10818,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.8427 249.8343) (xy 257.1127 249.8343)
+			(xy 254.6099 249.8243) (xy 257.1127 249.8243)
 		)
 		(stroke
 			(width 0)
@@ -10656,7 +10898,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.0902 120.8866) (xy 220.9425 120.8866)
+			(xy 203.0902 120.8866) (xy 208.0166 120.8866)
 		)
 		(stroke
 			(width 0)
@@ -10673,6 +10915,16 @@
 			(type default)
 		)
 		(uuid "887fd72b-4ed9-4c6e-b392-30af5277af8b")
+	)
+	(wire
+		(pts
+			(xy 257.1625 249.8343) (xy 260.2877 249.8343)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "888b319d-956f-4ca5-bc96-59bb1835c622")
 	)
 	(wire
 		(pts
@@ -10756,16 +11008,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.7422 300.9063) (xy 271.7122 300.9063)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ceab11f-8070-4929-8e77-af6934eddc82")
-	)
-	(wire
-		(pts
 			(xy 116.519 369.3773) (xy 116.519 366.947)
 		)
 		(stroke
@@ -10816,6 +11058,16 @@
 	)
 	(wire
 		(pts
+			(xy 341.5622 331.9827) (xy 344.1022 331.9827)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ec3ef87-3337-464e-abac-d0f6151b4f87")
+	)
+	(wire
+		(pts
 			(xy 520.0552 252.4596) (xy 521.3252 252.4596)
 		)
 		(stroke
@@ -10833,6 +11085,16 @@
 			(type default)
 		)
 		(uuid "8fd19b4c-fee9-4525-933a-60236d5ce47f")
+	)
+	(wire
+		(pts
+			(xy 525.1051 283.8639) (xy 525.1051 284.3571)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "911a1129-472c-46f8-aa63-935fa8042726")
 	)
 	(wire
 		(pts
@@ -10906,6 +11168,16 @@
 	)
 	(wire
 		(pts
+			(xy 523.8839 219.0903) (xy 526.4091 219.0903)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b2947cf-bf3e-4110-87f1-5b05ecf886d3")
+	)
+	(wire
+		(pts
 			(xy 174.025 120.8866) (xy 177.7844 120.8866)
 		)
 		(stroke
@@ -10973,6 +11245,26 @@
 			(type default)
 		)
 		(uuid "9fd81541-2dc2-4655-9319-12a2a0ba20bb")
+	)
+	(wire
+		(pts
+			(xy 437.2454 248.6455) (xy 437.276 248.6455)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a003ee17-3107-48c6-8df7-e68d4a089192")
+	)
+	(wire
+		(pts
+			(xy 437.2454 252.6182) (xy 437.2454 248.6455)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1622cf9-d68e-404b-b2f2-2afa78231bf7")
 	)
 	(wire
 		(pts
@@ -11106,6 +11398,16 @@
 	)
 	(wire
 		(pts
+			(xy 150.7738 193.8109) (xy 150.7738 200.4161)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aca0666b-7146-4fa0-9943-f7040789d8b7")
+	)
+	(wire
+		(pts
 			(xy 487.7143 140.3285) (xy 487.7143 144.6465)
 		)
 		(stroke
@@ -11133,6 +11435,16 @@
 			(type default)
 		)
 		(uuid "adb5fff1-e028-41f5-b3da-a023c2c8da4e")
+	)
+	(wire
+		(pts
+			(xy 523.8839 224.4909) (xy 526.4091 224.4909)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae339596-53c7-4ee1-85f6-8c5f389218b8")
 	)
 	(wire
 		(pts
@@ -11316,7 +11628,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.1127 247.2943) (xy 257.1127 249.8343)
+			(xy 259.3723 247.2526) (xy 259.3723 249.8243)
 		)
 		(stroke
 			(width 0)
@@ -11463,6 +11775,16 @@
 			(type default)
 		)
 		(uuid "c0fbcf85-2c3d-4e8f-ae17-d969e6794b14")
+	)
+	(wire
+		(pts
+			(xy 341.5622 323.4532) (xy 344.1022 323.4532)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c11e0c01-50de-4520-9d56-38f9ee6ba60e")
 	)
 	(wire
 		(pts
@@ -11736,13 +12058,23 @@
 	)
 	(wire
 		(pts
-			(xy 150.7738 200.4882) (xy 150.7738 202.7009)
+			(xy 523.8839 229.9987) (xy 526.4091 229.9987)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d50e756d-fa79-41a4-b3ee-b03befa3ee3e")
+		(uuid "d55f351f-d751-45a9-b254-5daa151414dd")
+	)
+	(wire
+		(pts
+			(xy 208.0166 120.8866) (xy 220.9425 120.8866)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5ee89b2-a834-455e-9238-731fac4ef9bc")
 	)
 	(wire
 		(pts
@@ -11773,6 +12105,16 @@
 			(type default)
 		)
 		(uuid "d73b07d2-6b95-418d-a79d-ff036b0bb80e")
+	)
+	(wire
+		(pts
+			(xy 52.2919 120.4425) (xy 52.2919 126.0434)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d817b7bd-2660-47d6-ac28-be9bdf5d3144")
 	)
 	(wire
 		(pts
@@ -11826,7 +12168,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.9527 251.7393) (xy 246.9527 249.8343)
+			(xy 246.9527 251.7393) (xy 246.9527 249.8243)
 		)
 		(stroke
 			(width 0)
@@ -11873,6 +12215,16 @@
 			(type default)
 		)
 		(uuid "e0f1a164-93d1-45e2-9254-81ae221f96be")
+	)
+	(wire
+		(pts
+			(xy 30.0664 307.3867) (xy 33.3132 307.3867)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2a99d9f-3d83-4393-99fb-3e12ec967c57")
 	)
 	(wire
 		(pts
@@ -11976,6 +12328,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.0664 298.9001) (xy 33.3132 298.9001)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edd86071-9ca5-46dc-a357-6a40b3e20101")
+	)
+	(wire
+		(pts
 			(xy 257.7422 305.9863) (xy 304.7322 305.9863)
 		)
 		(stroke
@@ -12013,16 +12375,6 @@
 			(type default)
 		)
 		(uuid "f04227aa-5360-4349-b748-50bf34248463")
-	)
-	(wire
-		(pts
-			(xy 379.73 125.73) (xy 378.46 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0558d7d-48c7-49f8-b063-9a31fa779548")
 	)
 	(wire
 		(pts
@@ -12093,6 +12445,16 @@
 			(type default)
 		)
 		(uuid "f5bf2ef7-670f-4b8a-86e4-a1ce5a7e5cbe")
+	)
+	(wire
+		(pts
+			(xy 150.7738 215.975) (xy 150.7738 219.2109)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f709b63e-30f8-4fea-84ca-2ebcc7cf73b4")
 	)
 	(wire
 		(pts
@@ -12326,6 +12688,28 @@
 			)
 		)
 	)
+	(global_label "ESP_SDA"
+		(shape input)
+		(at 33.3132 307.3867 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "033aab69-c5b3-4afd-996d-2901e89983a1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.2325 307.3867 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "ESP_RX"
 		(shape input)
 		(at 390.5717 244.1197 0)
@@ -12348,6 +12732,28 @@
 			)
 		)
 	)
+	(global_label "BTN_MODE_1"
+		(shape output)
+		(at 380.1283 332.3601 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "08cfb856-55ac-484b-aa68-654672efae3f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 392.0472 332.3601 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "AUX_1"
 		(shape bidirectional)
 		(at 344.1022 302.1763 0)
@@ -12361,6 +12767,28 @@
 		(uuid "09fe3339-fcc2-4e50-86e2-5ee04869e35b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 352.0237 302.1763 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SEG_CLK"
+		(shape input)
+		(at 473.0624 256.8277 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "0ba7aa7d-16b4-4a5d-80b6-5d5fdee33855")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 481.9817 256.8277 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12394,7 +12822,7 @@
 	)
 	(global_label "COIN_EN"
 		(shape output)
-		(at 367.03 135.89 0)
+		(at 366.9528 135.2047 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12404,7 +12832,7 @@
 		)
 		(uuid "0e1e0e70-62d9-43b3-b0c4-aca04ee4d9bb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 375.8042 135.89 0)
+			(at 375.727 135.2047 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12546,6 +12974,28 @@
 			)
 		)
 	)
+	(global_label "ESP_SCL"
+		(shape input)
+		(at 33.3132 298.9001 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "2b3f1625-f20c-4127-9087-6f9a090548f2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.1841 298.9001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RLY_COM"
 		(shape bidirectional)
 		(at 556.3457 199.39 180)
@@ -12564,6 +13014,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ESP_RX"
+		(shape input)
+		(at 377.1235 266.8081 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "3374e0b6-1fe9-4687-a3df-14d18345728d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 385.0453 266.8081 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -12674,6 +13146,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "AUX_1"
+		(shape bidirectional)
+		(at 344.1022 323.4532 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "491d3183-3664-4376-bfda-9d2450c1b0a2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 352.0237 323.4532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -12920,6 +13414,28 @@
 			)
 		)
 	)
+	(global_label "BTN_MODE_2"
+		(shape output)
+		(at 399.8662 332.3601 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "6163b10b-8924-4d6e-9748-bc1f73c845b7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 411.7851 332.3601 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "AUX_2"
 		(shape bidirectional)
 		(at 363.1352 173.3047 0)
@@ -13008,6 +13524,28 @@
 			)
 		)
 	)
+	(global_label "SEG_DIO"
+		(shape input)
+		(at 473.0624 262.3141 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "6bad33eb-086c-4125-9069-993abbc755f4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 481.6914 262.3141 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "I2C_INT"
 		(shape input)
 		(at 85.09 289.56 0)
@@ -13032,7 +13570,7 @@
 	)
 	(global_label "WDT_DONE"
 		(shape output)
-		(at 379.73 125.73 0)
+		(at 378.46 125.0447 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13042,7 +13580,7 @@
 		)
 		(uuid "764e5669-57ca-4e66-b387-b916e136530d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 389.747 125.73 0)
+			(at 388.477 125.0447 0)
 			(effects
 				(font
 					(size 1 1)
@@ -13162,6 +13700,28 @@
 			)
 		)
 	)
+	(global_label "RLY_NO"
+		(shape bidirectional)
+		(at 526.4091 229.9987 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "99cbb3d9-5733-42a1-8ae3-9879bd7b19f9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 535.2983 229.9987 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BUZZER"
 		(shape input)
 		(at 508.5951 290.2139 180)
@@ -13241,6 +13801,28 @@
 		(uuid "a0fbe44e-c062-443b-a4a9-3c5063489803")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 376.8321 160.6047 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "AUX_2"
+		(shape bidirectional)
+		(at 344.1022 331.9827 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "a62827d6-ef04-4371-aa46-49bc423961ae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 352.0237 331.9827 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13378,6 +13960,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ESP_TX"
+		(shape input)
+		(at 377.1235 258.3215 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "c7e27ddb-2ae1-44da-8d1e-318d2e6cd545")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 384.8072 258.3215 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -13602,6 +14206,28 @@
 			)
 		)
 	)
+	(global_label "RLY_COM"
+		(shape bidirectional)
+		(at 526.4091 224.4909 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "ed862728-046c-4f41-b1d8-296f7b90e151")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 536.411 224.4909 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RLY_NO"
 		(shape bidirectional)
 		(at 556.3457 201.93 180)
@@ -13620,6 +14246,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RLY_NC"
+		(shape bidirectional)
+		(at 526.4091 219.0903 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "f2750f88-5984-497a-a7f9-791c89b637be")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 535.2499 219.0903 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -13910,6 +14558,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 473.0624 256.8277 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0109787c-4f82-4790-8457-499a0b274135")
+		(property "Reference" "TP28"
+			(at 466.7071 254.8219 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 464.6783 256.7649 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 473.0624 251.7477 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 473.0624 251.7477 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 473.0624 256.8277 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0e19f723-c88c-4c6e-96f1-3b1dd1870f0b")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "+5V_2")
 		(lib_id "power:+5V")
 		(at 77.47 280.67 0)
@@ -13994,8 +14706,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
-			(at 274.0186 294.2031 0)
+		(property "Value" "1k"
+			(at 273.6149 294.2312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15179,6 +15891,73 @@
 			(project "Vendo_main_board"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "JP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 155.2861 215.975 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "081bf151-dfa2-4a6a-bab2-2a383049756a")
+		(property "Reference" "TP8"
+			(at 160.7223 214.7049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 160.7223 217.2449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 155.2861 221.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 155.2861 221.055 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 155.2861 215.975 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fc5aab67-3dbf-4e9e-97c7-cbc1d86f94b1")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -17958,6 +18737,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 30.0664 298.9001 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "24af91ef-f448-49ee-b6b3-a38bdc285113")
+		(property "Reference" "TP9"
+			(at 26.7644 293.8201 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 26.7644 296.3601 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 30.0664 293.8201 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.0664 293.8201 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 30.0664 298.9001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "50859311-91d6-4b50-8c0f-14df2981382d")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 271.7177 238.4043 0)
 		(unit 1)
@@ -18667,6 +19511,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 52.2919 120.4425 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2f5e63bf-343a-48dc-8c70-cd4bcf93bc82")
+		(property "Reference" "TP3"
+			(at 54.4609 115.8704 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 54.4609 118.4104 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 57.3719 120.4425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.3719 120.4425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 52.2919 120.4425 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36255be7-758a-42de-aa13-81bd8ba65172")
+		)
+		(instances
+			(project ""
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "tps:GND")
 		(at 38.4826 150.1734 0)
 		(unit 1)
@@ -18726,6 +19637,70 @@
 			(project "Vendo_main_board"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "#PWR_C01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 523.8839 219.0903 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "34896ab3-6414-473f-9f44-14fb588a819e")
+		(property "Reference" "TP25"
+			(at 517.5286 217.0845 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 515.4998 219.0275 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 523.8839 214.0103 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 523.8839 214.0103 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 523.8839 219.0903 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7e69ad8c-7e6e-4896-85d7-27e71d8c7e80")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP25")
 					(unit 1)
 				)
 			)
@@ -19565,7 +20540,7 @@
 				)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 515.6351 114.5129 90)
 			(effects
 				(font
@@ -20057,6 +21032,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 30.0664 307.3867 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "41cd0045-6efb-4ce5-a51e-c28f80c65435")
+		(property "Reference" "TP10"
+			(at 26.7644 302.3067 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 26.7644 304.8467 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 30.0664 302.3067 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.0664 302.3067 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 30.0664 307.3867 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "05fe2aa4-cea2-4bc1-9f6a-47eb5df32823")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 134.2638 219.2109 0)
 		(unit 1)
@@ -20249,6 +21289,137 @@
 			(project "Vendo_main_board"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "#PWR_C0104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 523.8839 229.9987 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "46075c82-414f-43eb-91b4-ca16339a67e7")
+		(property "Reference" "TP27"
+			(at 517.5286 227.9929 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 515.4998 229.9359 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 523.8839 224.9187 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 523.8839 224.9187 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 523.8839 229.9987 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd38484b-74c4-481a-bfe6-e9825375c5a4")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 155.2004 200.4161 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46432ce8-1af0-4501-800b-6a3d6eccdff0")
+		(property "Reference" "TP7"
+			(at 160.6366 199.146 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 160.6366 201.686 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 155.2004 205.4961 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 155.2004 205.4961 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 155.2004 200.4161 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "79bcdb0b-897e-42e3-a615-4771e19b5df9")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -20677,6 +21848,70 @@
 			(project "Vendo_main_board"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 473.0624 262.3141 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4c54425e-e6e0-4dff-a1ba-102458c77f8e")
+		(property "Reference" "TP29"
+			(at 466.7071 260.3083 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 464.6783 262.2513 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 473.0624 257.2341 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 473.0624 257.2341 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 473.0624 262.3141 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ff786e1c-546c-450c-b0b2-c2cbb600ee7b")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP29")
 					(unit 1)
 				)
 			)
@@ -21552,6 +22787,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 523.8839 224.4909 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5243400a-e786-4243-ac0e-3739eb760567")
+		(property "Reference" "TP26"
+			(at 517.5286 222.4851 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 515.4998 224.4281 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 523.8839 219.4109 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 523.8839 219.4109 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 523.8839 224.4909 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bce4c6a3-dfd2-4c75-bbcf-43b9cfa00abc")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "tps:GND")
 		(at 203.0902 139.9366 0)
 		(unit 1)
@@ -21677,6 +22976,71 @@
 			(project "Vendo_main_board_ESP32"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 377.1235 266.8081 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5519637e-a707-49b8-879d-fff6df402183")
+		(property "Reference" "TP15"
+			(at 373.8215 261.7281 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 373.8215 264.2681 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 377.1235 261.7281 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 377.1235 261.7281 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 377.1235 266.8081 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f8737a63-b357-40fd-9919-4c107f342ddf")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP15")
 					(unit 1)
 				)
 			)
@@ -22188,6 +23552,137 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 149.539 340.1673 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "58d8182e-7d47-4774-ac94-39be3403deb7")
+		(property "Reference" "TP11"
+			(at 152.1137 335.5952 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 152.1137 338.1352 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 154.619 340.1673 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.619 340.1673 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 149.539 340.1673 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "edfb4d54-d0c5-425a-8bec-4538823048c4")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 519.6086 284.3571 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5b3ffb5e-d4ea-4859-97b3-c68b032902c3")
+		(property "Reference" "TP30"
+			(at 513.2533 282.3513 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 511.2245 284.2943 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 519.6086 279.2771 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 519.6086 279.2771 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 519.6086 284.3571 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8e9ca1d2-e090-4df1-b92a-991d1bd7e7b0")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
 		(at 558.7314 173.2264 90)
 		(unit 1)
@@ -22479,7 +23974,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 550.3503 107.3084 0)
 			(effects
 				(font
@@ -24367,6 +25862,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 377.1235 258.3215 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7a2f38b6-b0d5-4e91-b7fe-f337fd1f83b0")
+		(property "Reference" "TP14"
+			(at 373.8215 253.2415 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 373.8215 255.7815 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 377.1235 253.2415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 377.1235 253.2415 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 377.1235 258.3215 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f49c38cd-fb3a-458b-a93f-47feaf192f00")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "+5V_2")
 		(lib_id "power:+5V")
 		(at 220.9425 106.2623 0)
@@ -25044,6 +26604,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 547.4043 139.4959 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7c0c847a-3695-4668-a8dd-08167640d630")
+		(property "Reference" "TP31"
+			(at 541.049 137.4901 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 539.0202 139.4331 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 547.4043 134.4159 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 547.4043 134.4159 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 547.4043 139.4959 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7d4a2bc0-559f-401f-b13a-52891f385bb9")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3.3V")
 		(at 387.2652 136.4747 0)
 		(unit 1)
@@ -25104,6 +26728,138 @@
 			(project "Vendo_main_board_ESP32"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "#PWR095")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 380.1283 332.3601 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7f260305-dc90-414f-9de7-4ec6dc9adbb7")
+		(property "Reference" "TP21"
+			(at 376.8263 326.5987 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 376.8263 329.1387 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 380.1283 327.2801 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 380.1283 327.2801 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 380.1283 332.3601 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e039329-775d-47db-a39c-9b01de3ceeed")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 294.5722 308.5263 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "802d3a5e-5637-4dda-9bef-5b9b5e44d4ef")
+		(property "Reference" "TP18"
+			(at 299.72 307.2562 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 299.72 309.7962 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 294.5722 313.6063 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 294.5722 313.6063 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 294.5722 308.5263 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe228fac-5c29-4047-9292-1cc154508e6c")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP18")
 					(unit 1)
 				)
 			)
@@ -25571,7 +27327,7 @@
 	)
 	(symbol
 		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 252.0327 249.8343 0)
+		(at 250.7999 249.8243 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25579,7 +27335,7 @@
 		(dnp no)
 		(uuid "87f555eb-7d83-4623-bd14-aa18cd0f1447")
 		(property "Reference" "JP14"
-			(at 252.0327 247.2943 0)
+			(at 250.7142 251.9674 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25587,7 +27343,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 252.0327 246.6593 0)
+			(at 250.7999 246.6493 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25596,7 +27352,7 @@
 			)
 		)
 		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm"
-			(at 252.0327 249.8343 0)
+			(at 250.7999 249.8243 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25605,7 +27361,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 252.0327 249.8343 0)
+			(at 250.7999 249.8243 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25614,7 +27370,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 252.0327 249.8343 0)
+			(at 250.7999 249.8243 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25623,7 +27379,7 @@
 			)
 		)
 		(property "Field7" ""
-			(at 252.0327 249.8343 0)
+			(at 250.7999 249.8243 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25632,7 +27388,7 @@
 			)
 		)
 		(property "Field6" ""
-			(at 252.0327 249.8343 0)
+			(at 250.7999 249.8243 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25641,7 +27397,7 @@
 			)
 		)
 		(property "MANUFACTURER" ""
-			(at 252.0327 249.8343 0)
+			(at 250.7999 249.8243 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25650,7 +27406,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 252.0327 249.8343 0)
+			(at 250.7999 249.8243 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25659,7 +27415,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 252.0327 249.8343 0)
+			(at 250.7999 249.8243 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25668,7 +27424,7 @@
 			)
 		)
 		(property "STANDARD" ""
-			(at 252.0327 249.8343 0)
+			(at 250.7999 249.8243 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26244,7 +28000,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 257.1127 247.2943 0)
+		(at 259.3723 247.2526 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26252,7 +28008,7 @@
 		(dnp no)
 		(uuid "8e3abc11-430d-48b6-94ca-b692b4a6e124")
 		(property "Reference" "TP1"
-			(at 255.5887 241.4523 0)
+			(at 257.8483 241.4106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26261,7 +28017,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 247.2067 246.2783 0)
+			(at 249.4663 246.2366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26271,7 +28027,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
-			(at 262.1927 247.2943 0)
+			(at 264.4523 247.2526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26280,7 +28036,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 262.1927 247.2943 0)
+			(at 264.4523 247.2526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26289,7 +28045,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 257.1127 247.2943 0)
+			(at 259.3723 247.2526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26298,7 +28054,7 @@
 			)
 		)
 		(property "MANUFACTURER" ""
-			(at 257.1127 247.2943 0)
+			(at 259.3723 247.2526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26307,7 +28063,7 @@
 			)
 		)
 		(property "PARTREV" ""
-			(at 257.1127 247.2943 0)
+			(at 259.3723 247.2526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26316,7 +28072,7 @@
 			)
 		)
 		(property "Purchase-URL" ""
-			(at 257.1127 247.2943 0)
+			(at 259.3723 247.2526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26325,7 +28081,7 @@
 			)
 		)
 		(property "STANDARD" ""
-			(at 257.1127 247.2943 0)
+			(at 259.3723 247.2526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26340,6 +28096,70 @@
 			(project "Vendo_main_board_ESP32"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "TP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 38.4826 146.0947 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8f2039be-8262-45f0-863a-614b8a9f54be")
+		(property "Reference" "TP4"
+			(at 32.5799 144.2469 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 29.9511 146.2471 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 38.4826 141.0147 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 38.4826 141.0147 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 38.4826 146.0947 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e84c20e0-eec9-4eab-873c-90f5543025fc")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -26843,6 +28663,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 473.0624 267.8004 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "94c8c1e6-d73c-4cb4-8e7a-23ab3e43178a")
+		(property "Reference" "TP32"
+			(at 466.7071 265.7946 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 464.6783 267.7376 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 473.0624 262.7204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 473.0624 262.7204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 473.0624 267.8004 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01b29ab0-b5e9-4f9a-894c-6c3e9b5251cc")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Q_NMOS_Depletion_GSD")
 		(at 485.1743 135.2485 0)
 		(unit 1)
@@ -27081,6 +28965,73 @@
 			(project "Vendo_main_board"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 149.539 366.947 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "95abba00-466d-4dc3-a727-24c5b2587540")
+		(property "Reference" "TP12"
+			(at 151.6847 368.9789 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 151.6847 371.5189 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 144.459 366.947 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.459 366.947 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 149.539 366.947 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0883ab65-90d4-443f-a9c8-ee7981954b23")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP12")
 					(unit 1)
 				)
 			)
@@ -27816,6 +29767,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 496.4646 97.6116 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9c6774f4-adcf-4f13-9345-61dae6134b51")
+		(property "Reference" "TP24"
+			(at 490.1093 95.6058 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 488.0805 97.5488 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 496.4646 92.5316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 496.4646 92.5316 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 496.4646 97.6116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a416036-ae87-47b3-aa3b-9fba4b096323")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:SolderJumper_3_Open")
 		(at 344.1022 295.8263 0)
 		(unit 1)
@@ -28343,6 +30358,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 437.2454 252.6182 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a25260a6-ff82-4699-9ae3-9e6c55ac4239")
+		(property "Reference" "TP16"
+			(at 439.7089 254.6501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 439.7089 257.1901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 432.1654 252.6182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 432.1654 252.6182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 437.2454 252.6182 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a3a01b57-3dd3-4810-bfea-57bf4a106989")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Q_NMOS_Depletion_GSD")
 		(at 487.7657 210.82 0)
 		(unit 1)
@@ -28606,7 +30688,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 510.9803 107.3084 0)
 			(effects
 				(font
@@ -30943,7 +33025,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 534.46 328.4382 90)
 			(effects
 				(font
@@ -33384,6 +35466,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 494.0643 120.0085 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cba0b89b-3139-4c24-9a3e-fc7b2b01f31e")
+		(property "Reference" "TP23"
+			(at 500.4196 122.0143 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 502.4484 120.0713 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 494.0643 125.0885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 494.0643 125.0885 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 494.0643 120.0085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8e316abf-58df-43cd-a6e4-3986239c54c2")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 533.952 336.0582 90)
 		(unit 1)
@@ -33401,7 +35547,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 534.46 336.0582 90)
 			(effects
 				(font
@@ -34006,6 +36152,74 @@
 		)
 	)
 	(symbol
+		(lib_name "GND_1")
+		(lib_id "power:GND")
+		(at 473.0624 267.8004 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ce38ed30-a6e7-4685-bdd8-93e7a55a4fe9")
+		(property "Reference" "#PWR05"
+			(at 473.0624 274.1504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 473.0624 272.8804 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 473.0624 267.8004 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 473.0624 267.8004 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 473.0624 267.8004 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8c36073-3b76-424e-b172-1ae382828a72")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 480.9077 189.23 0)
 		(unit 1)
@@ -34023,7 +36237,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1K"
+		(property "Value" "1k"
 			(at 475.8005 191.3219 0)
 			(effects
 				(font
@@ -35051,6 +37265,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 399.8662 332.3601 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d6695c02-8f76-454d-8681-0125126eea45")
+		(property "Reference" "TP22"
+			(at 396.5642 326.5987 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 396.5642 329.1387 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 399.8662 327.2801 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 399.8662 327.2801 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 399.8662 332.3601 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "73378b9a-1f4e-4116-8e20-8badb327f501")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
 		(at 567.2644 222.0122 90)
@@ -35560,6 +37838,136 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 341.5622 323.4532 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "da3cd51c-76a8-495f-9ccd-28c09149c576")
+		(property "Reference" "TP19"
+			(at 338.2602 318.4569 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 338.2602 320.9969 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 341.5622 318.3732 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 341.5622 318.3732 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 341.5622 323.4532 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "86bf6ba6-162d-4b27-a74c-5ebcaf307eb5")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 341.5622 331.9827 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dae2bf8e-ba97-402f-89c3-555e6b6805d1")
+		(property "Reference" "TP20"
+			(at 338.2602 326.9864 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 338.2602 329.5264 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 341.5622 326.9027 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 341.5622 326.9027 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 341.5622 331.9827 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f102145-841f-4713-b12c-f72f99979355")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 271.7177 234.5943 0)
 		(unit 1)
@@ -36022,6 +38430,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 208.0166 107.1722 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e26bd61a-edb8-45af-9826-36107e16d3ce")
+		(property "Reference" "TP5"
+			(at 210.1856 102.6001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 210.1856 105.1401 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 213.0966 107.1722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 213.0966 107.1722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 208.0166 107.1722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ad3e042d-8ffc-4539-b430-194622d9b2d1")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Timer_RTC:DS1302ZN+")
 		(at 116.519 355.4073 0)
 		(unit 1)
@@ -36307,6 +38782,71 @@
 			(project "Vendo_main_board"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 214.9982 165.0068 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5b363d0-98dd-4a18-a10e-ba492b8fccad")
+		(property "Reference" "TP6"
+			(at 211.6962 159.3389 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 211.6962 161.8789 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 214.9982 159.9268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 214.9982 159.9268 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 214.9982 165.0068 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be75d657-efe0-44ba-8ae6-f02cd86a7946")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -38954,6 +41494,139 @@
 			(project "Vendo_main_board"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 257.1625 247.1954 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fbc67d4a-6c9f-495c-9f48-a692a11127d3")
+		(property "Reference" "TP13"
+			(at 251.4619 243.5521 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 247.3471 245.438 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 262.2425 247.1954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.2425 247.1954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 257.1625 247.1954 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8037ba3b-86df-42b9-865e-43e993b61210")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 259.1119 293.4576 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fd4c7ca5-00d3-46a5-b7e7-86331c96f017")
+		(property "Reference" "TP17"
+			(at 261.1866 288.8855 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 261.1866 291.4255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 264.1919 293.4576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 264.1919 293.4576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 259.1119 293.4576 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1b5827d3-29de-4fa5-b59c-b906817dba4e")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP17")
 					(unit 1)
 				)
 			)
