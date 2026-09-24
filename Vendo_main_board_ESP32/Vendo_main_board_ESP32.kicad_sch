@@ -11098,6 +11098,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.3363 305.6524) (xy 32.5587 305.6524)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9125faf8-b82e-4453-8945-e139c8b64e9f")
+	)
+	(wire
+		(pts
 			(xy 508.0343 117.4685) (xy 511.8443 117.4685)
 		)
 		(stroke
@@ -12218,7 +12228,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.0664 307.3867) (xy 33.3132 307.3867)
+			(xy 29.3363 295.8379) (xy 32.5831 295.8379)
 		)
 		(stroke
 			(width 0)
@@ -12328,7 +12338,7 @@
 	)
 	(wire
 		(pts
-			(xy 30.0664 298.9001) (xy 33.3132 298.9001)
+			(xy 29.3363 287.3513) (xy 32.5831 287.3513)
 		)
 		(stroke
 			(width 0)
@@ -12690,7 +12700,7 @@
 	)
 	(global_label "ESP_SDA"
 		(shape input)
-		(at 33.3132 307.3867 0)
+		(at 32.5831 295.8379 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12700,7 +12710,7 @@
 		)
 		(uuid "033aab69-c5b3-4afd-996d-2901e89983a1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.2325 307.3867 0)
+			(at 41.5024 295.8379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12952,6 +12962,28 @@
 			)
 		)
 	)
+	(global_label "I2C_INT"
+		(shape input)
+		(at 32.5587 305.6524 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left)
+		)
+		(uuid "28215cae-2329-46d3-bf0e-1abe0f776168")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 40.5104 305.6524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RLY_DRV"
 		(shape output)
 		(at 366.6912 152.9847 0)
@@ -12976,7 +13008,7 @@
 	)
 	(global_label "ESP_SCL"
 		(shape input)
-		(at 33.3132 298.9001 0)
+		(at 32.5831 287.3513 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12986,7 +13018,7 @@
 		)
 		(uuid "2b3f1625-f20c-4127-9087-6f9a090548f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.1841 298.9001 0)
+			(at 41.454 287.3513 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18738,7 +18770,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 30.0664 298.9001 90)
+		(at 29.3363 287.3513 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18747,7 +18779,7 @@
 		(fields_autoplaced yes)
 		(uuid "24af91ef-f448-49ee-b6b3-a38bdc285113")
 		(property "Reference" "TP9"
-			(at 26.7644 293.8201 90)
+			(at 26.0343 282.2713 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18755,7 +18787,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 26.7644 296.3601 90)
+			(at 26.0343 284.8113 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18763,7 +18795,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
-			(at 30.0664 293.8201 0)
+			(at 29.3363 282.2713 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18772,7 +18804,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.0664 293.8201 0)
+			(at 29.3363 282.2713 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18781,7 +18813,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 30.0664 298.9001 0)
+			(at 29.3363 287.3513 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21033,7 +21065,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 30.0664 307.3867 90)
+		(at 29.3363 295.8379 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21042,7 +21074,7 @@
 		(fields_autoplaced yes)
 		(uuid "41cd0045-6efb-4ce5-a51e-c28f80c65435")
 		(property "Reference" "TP10"
-			(at 26.7644 302.3067 90)
+			(at 26.0343 290.7579 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21050,7 +21082,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 26.7644 304.8467 90)
+			(at 26.0343 293.2979 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21058,7 +21090,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
-			(at 30.0664 302.3067 0)
+			(at 29.3363 290.7579 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21067,7 +21099,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.0664 302.3067 0)
+			(at 29.3363 290.7579 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21076,7 +21108,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 30.0664 307.3867 0)
+			(at 29.3363 295.8379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30869,6 +30901,71 @@
 			(project "Vendo_main_board"
 				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
 					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 29.3363 305.6524 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a47562c8-fcac-4842-a64e-4a3de911ac6a")
+		(property "Reference" "TP33"
+			(at 26.0343 300.5724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 26.0343 303.1124 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm"
+			(at 29.3363 300.5724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 29.3363 300.5724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 29.3363 305.6524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ae89c067-7f75-4b75-9927-05613d83fdb8")
+		)
+		(instances
+			(project "Vendo_main_board_ESP32"
+				(path "/ce68e045-3b24-4b1f-b4c3-20bce3f1de80"
+					(reference "TP33")
 					(unit 1)
 				)
 			)
